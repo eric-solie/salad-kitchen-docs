@@ -13,11 +13,11 @@ cooling and regular cleaning, running Salad keeps your hardware well within its 
 Running Salad stresses your PC about as much as playing a demanding video game, hosting your own large language model
 (LLM), or running a 3D Blender render. The load itself is nothing your hardware wasn't built for.
 
-Here is the honest picture on wear. The GPU chip itself tolerates sustained load extremely well. The best real-world
-evidence comes from crypto mining, which ran millions of GPUs 24/7 for years under heavier conditions than Salad.
-Independent tests of ex-mining cards found their performance indistinguishable from lightly used ones. Steady workloads
-like Salad also hold your card at a stable temperature, which is gentler on the circuit board than the repeated heat-up
-and cool-down cycles of start-stop gaming.
+The GPU chip itself tolerates sustained load extremely well. The best real-world evidence comes from crypto mining,
+which ran millions of GPUs 24/7 for years under heavier conditions than Salad. Independent tests of ex-mining cards
+found their performance indistinguishable from lightly used ones. Steady workloads like Salad also hold your card at a
+stable temperature, which is gentler on the circuit board than the repeated heat-up and cool-down cycles of start-stop
+gaming.
 
 What Salad's extra hours do add up on are the parts designed to be maintained: fans, thermal paste, and dust. Fans are
 rated for years of continuous use and cost $10 to $30 to replace. Thermal paste costs a few dollars. In practice, most
@@ -29,7 +29,7 @@ Chefs have earned over $10 million running Salad across more than 2 million down
 
 ---
 
-## Keep an Eye on Temperatures
+## How to Keep an Eye on Temperatures
 
 - Keep your GPU core temperature under 83ºC (181ºF).
 - On cards with GDDR6X memory (RTX 3080 and 3090 class), also watch the memory junction temperature and keep it under
